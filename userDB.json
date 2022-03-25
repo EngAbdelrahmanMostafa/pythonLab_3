@@ -1,0 +1,23 @@
+[
+    {
+        "email": "abdo@gmail.com",
+        "password": "123456789",
+        "Fname": "abdo",
+        "Lname": "mostafa",
+        "phone": "01147964655"
+    },
+    {
+        "email": "abdo1@gmail.com",
+        "password": "12345678",
+        "Fname": "abdo",
+        "Lname": "mostyaf",
+        "phone": "01147964655"
+    },
+    {
+        "email": "a1@gmail.com",
+        "password": "12345678",
+        "Fname": "aaa",
+        "Lname": "bbb",
+        "phone": "01147964655"
+    }
+]
